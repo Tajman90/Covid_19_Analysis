@@ -14,7 +14,7 @@ The purpose of this Python project is to analyse and visualize COVID-19 statisti
 - Ranking states with the highest death tolls.  
 - Tracking states with the largest number of active cases.
 
-  ## **Key Steps & Processes**
+## **Key Steps & Processes**
 
 ### **1. Data Import & Exploration**  
 - Imported the dataset using **Pandas** from an Excel CSV file.  
