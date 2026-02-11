@@ -14,7 +14,7 @@ The purpose of this Python project is to analyse and visualize COVID-19 statisti
 - Ranking states with the highest death tolls.  
 - Tracking states with the largest number of active cases.
 
-- ###  **2. Data Cleaning**  
+ ###  **2. Data Cleaning**  
 - Removed unnecessary columns such as `Time`, ‘ConfirmedIndianNational’, ‘ConfirmedForeignNational’ and Sno columns.  
 - Handled missing data and standardized all column names for smooth analysis.
 -   Convert date column to datetime format
