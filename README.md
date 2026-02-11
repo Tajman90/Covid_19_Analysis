@@ -12,5 +12,17 @@ The purpose of this Python project is to analyse and visualize COVID-19 statisti
 - Highlighting states with the lowest vaccination coverage.  
 - Comparing vaccination rates between male and female populations.  
 - Ranking states with the highest death tolls.  
-- Tracking states with the largest number of active cases.  
+- Tracking states with the largest number of active cases.
+
+- ###  **2. Data Cleaning**  
+- Removed unnecessary columns such as `Time`, ‘ConfirmedIndianNational’, ‘ConfirmedForeignNational’ and Sno columns.  
+- Handled missing data and standardized all column names for smooth analysis.
+-   Convert date column to datetime format
+-   Convert numeric columns; ‘Confirmed’, ‘Cured’ and ‘Deaths’ to proper data types.
+-   Created ‘Active Cases’ column which was calculated by: Total number of ‘Confirmed’  cases – sum of  ‘Cured’  cases + ‘Death’ reported =  ‘Active Cases’.
+- Changed the Date format using Pandas pd.to_datetime function.
+- Renamed ‘Updated On’ (column) to ‘Vaccine Date’.
+- Removed rows where State was wrongly named India. 
+- Renamed ‘Total Individuals Vaccinated’ column to ‘Total’.
+
 
