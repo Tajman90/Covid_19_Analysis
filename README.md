@@ -36,5 +36,6 @@ The purpose of this Python project is to analyse and visualize COVID-19 statisti
  The Dataset was downloaded from **Kaggle**.
 
  ### Tools/Software used
+ - MS Office Pro Plus/Excel 2013 - Dataset (**covid_vaccine_statewise.csv** and **covid_19_india.csv**)
 
 
