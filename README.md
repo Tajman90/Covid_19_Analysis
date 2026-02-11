@@ -7,7 +7,7 @@ The project highlight the impact of the virus on states/territories in India, it
 The main goal is to clean, process and visualize, the datasets for further use in analytics and research.
 
 ## **Objective**  
-The purpose of this Python project is to analyse and visualize COVID-19 statistics across different states/territories in India. The project aims to provide clear, data-driven insights into the pandemic’s impact by focusing on:
+The purpose of this Python project is to analyse and visualize COVID-19 statistics across different states/territories in India. The project aims to provide clear data-driven insights into the pandemic’s impact by focusing on:
 - Identified states most affected by COVID-19 in terms of confirmed cases.  
 - Highlighted states with the lowest vaccination coverage.  
 - Compared vaccination rates between male and female populations.  
