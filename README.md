@@ -24,12 +24,12 @@ The purpose of this Python project is to analyse and visualize COVID-19 statisti
  ###  **2. Data Cleaning**  
 - Removed unnecessary columns such as **Time**, **ConfirmedIndianNational**, **ConfirmedForeignNational** and **Sno** columns.  
 - Handled missing data and standardized all column names for smooth analysis.
--   Convert date column to datetime format
--   Convert numeric columns; **Confirmed**, **Cured** and **Deaths** to proper data types.
+-   Converted **date** column to **datetime** format
+-   Converted numeric columns; **Confirmed**, **Cured** and **Deaths** to the accurate data types.
 -   Created **Active Cases** column which was calculated by: Total number of **Confirmed**  cases – sum of **Cured**  cases + **Death** reported =  **Active Cases**.
 - Changed the Date format using Pandas **pd.to_datetime** function.
 - Renamed **Updated On** (column) to **Vaccine Date**.
-- Removed rows where State was wrongly named India. 
+- Removed rows where **State** was wrongly named **India**. 
 - Renamed **Total Individuals Vaccinated** column to **Total**.
 
 
