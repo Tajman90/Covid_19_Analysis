@@ -27,7 +27,7 @@ The purpose of this Python project is to analyse and visualize COVID-19 statisti
 -   Convert date column to datetime format
 -   Convert numeric columns; **Confirmed**, **Cured** and **Deaths** to proper data types.
 -   Created **Active Cases** column which was calculated by: Total number of **Confirmed**  cases – sum of **Cured**  cases + **Death** reported =  **Active Cases**.
-- Changed the Date format using Pandas pd.to_datetime function.
+- Changed the Date format using Pandas **pd.to_datetime** function.
 - Renamed **Updated On** (column) to **Vaccine Date**.
 - Removed rows where State was wrongly named India. 
 - Renamed **Total Individuals Vaccinated** column to **Total**.
