@@ -37,5 +37,9 @@ The purpose of this Python project is to analyse and visualize COVID-19 statisti
 
  ### Tools/Software used
  - MS Office Pro Plus/Excel 2013 - Dataset (**covid_vaccine_statewise.csv** and **covid_19_india.csv**)
+ - Python
+ - Python Libraries: Pandas, Numpy, Matplotlib and Plotly
+ - Anaconda Navigator and Jupyter Notebook
+  
 
 
