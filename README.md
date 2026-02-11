@@ -8,11 +8,11 @@ The main goal is to clean, process and visualize, the datasets for further use i
 
 ## **Objective**  
 The purpose of this Python project is to analyse and visualize COVID-19 statistics across different states/territories in India. The project aims to provide clear, data-driven insights into the pandemic’s impact by focusing on:
-- Identifying states most affected by COVID-19 in terms of confirmed cases.  
-- Highlighting states with the lowest vaccination coverage.  
-- Comparing vaccination rates between male and female populations.  
-- Ranking states with the highest death tolls.  
-- Tracking states with the largest number of active cases.
+- Identified states most affected by COVID-19 in terms of confirmed cases.  
+- Highlighted states with the lowest vaccination coverage.  
+- Compared vaccination rates between male and female populations.  
+- Ranked states with the highest death tolls.  
+- Tracked states with the largest number of active cases.
 
 ## **Key Steps & Processes**
 
