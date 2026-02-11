@@ -31,4 +31,6 @@ The purpose of this Python project is to analyse and visualize COVID-19 statisti
 - Removed rows where **State** was wrongly named **India**. 
 - Renamed **Total Individuals Vaccinated** column to **Total**.
 
+ ### Data Source
+
 
