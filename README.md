@@ -41,7 +41,7 @@ The purpose of this Python project is to analyse and visualize COVID-19 statisti
  - Python Libraries: Pandas, Numpy, Matplotlib and Plotly
  - Anaconda Navigator and Jupyter Notebook
 
-###Data Analysis
+### Data Analysis
 Our analysis was executed using Python Programming Language with Jupyter Notebook.
   
 
