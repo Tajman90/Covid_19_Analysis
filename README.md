@@ -1,12 +1,12 @@
 # COVID-19 Data Analysis Project  
 
-## **Project Overview**   
+## Project Overview   
 The project gives us an idea on the impact of Corona Virus globally in terms of confirmed cases, deaths reported, number of recoveries and active cases in India. It also shows how India was affected since the pandemic started.
 The project highlight the impact of the virus on states/territories in India, it influence and the vaccination status of total sample size. 
 
 The main goal is to clean, process and visualize, the datasets for further use in analytics and research.
 
-## **Objective**  
+## Objective  
 The purpose of this Python project is to analyse and visualize COVID-19 statistics across different states/territories in India. The project aims to provide clear data-driven insights into the pandemic’s impact by focusing on:
 - Identified states most affected by COVID-19 in terms of confirmed cases.  
 - Highlighted states with the lowest vaccination coverage.  
@@ -16,12 +16,12 @@ The purpose of this Python project is to analyse and visualize COVID-19 statisti
 
 ## Key Steps & Processes
 
-### **1. Data Import & Exploration**  
+### 1. Data Import & Exploration  
 - Imported the dataset using **Pandas** from an Excel CSV file.  
 - Conducted initial data exploration: checked columns, data types, and null values.  
 - Identified redundant and inconsistent data for cleaning.
 
- ###  **2. Data Cleaning**  
+ ###  2. Data Cleaning  
 - Removed unnecessary columns such as **Time**, **ConfirmedIndianNational**, **ConfirmedForeignNational** and **Sno** columns.  
 - Handled missing data and standardized all column names for smooth analysis.
 -   Converted **date** column to **datetime** format
