@@ -32,7 +32,7 @@ The purpose of this Python project is to analyse and visualize COVID-19 statisti
 - Renamed **Total Individuals Vaccinated** column to **Total**.
 
  ### Data Source
- The primary dataset used for this analysis is the "covid_vaccine_statewise.csv" and "covid_19_india.csv" file, containing detailed information about Covid 19 pandemic in India.
+ The primary dataset used for this analysis is the "**covid_vaccine_statewise.csv**" and "**covid_19_india.csv**" file, containing detailed information about Covid 19 pandemic in India.
  The Dataset was downloaded from Kaggle.
 
 
