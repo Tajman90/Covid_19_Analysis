@@ -44,5 +44,8 @@ The purpose of this Python project is to analyse and visualize COVID-19 statisti
 ### Data Analysis
 Our analysis was executed using Python Programming Language with Jupyter Notebook.
   
+### Screanshots of Analysis
+
+<img width="1127" height="529" alt="five_most_affected_states" src="https://github.com/user-attachments/assets/7636119c-e915-4d79-8828-5fe49daa31d7" />
 
 
