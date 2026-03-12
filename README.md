@@ -52,5 +52,8 @@ Our analysis was executed using Python Programming Language with Jupyter Noteboo
 
 <img width="800" height="500" alt="top_5_vaccinated_states_histograph" src="https://github.com/user-attachments/assets/bd0a5e3e-d976-4dca-b31b-bfffbdbe05e7" />
 <img width="848" height="522" alt="most_vaccinated_states" src="https://github.com/user-attachments/assets/db0ed1b7-56e2-4de7-aad0-283013f499a9" />
+<img width="929" height="464" alt="top_5_vaccinated_states_histograph" src="https://github.com/user-attachments/assets/69068601-c029-4e24-91aa-659f24d88d2e" />
+<img width="947" height="154" alt="top_5_vaccinated_states_code" src="https://github.com/user-attachments/assets/914cba41-26b9-4498-9fa2-429d7ecda707" />
+
 
 
