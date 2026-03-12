@@ -47,5 +47,6 @@ Our analysis was executed using Python Programming Language with Jupyter Noteboo
 ### Screanshots of Analysis
 
 <img width="800" height="500" alt="five_most_affected_states" src="https://github.com/user-attachments/assets/7636119c-e915-4d79-8828-5fe49daa31d7" />
+<img width="800" height="500" alt="top_10_state_deaths" src="https://github.com/user-attachments/assets/abb629bc-a6f5-466f-87b3-795c2245dc01" />
 
 
